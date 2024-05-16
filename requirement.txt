@@ -1,0 +1,9 @@
+openai
+SpeechRecognition
+pvporcupine
+pyaudio
+playsound
+SpeechRecognition
+pyttsx3
+websockets
+opencv-python
